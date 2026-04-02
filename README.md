@@ -25,4 +25,4 @@ $$Distance = \frac{Duration \times 0.0343}{2}$$
 - **High-Precision Data:** Displays real-time altitude with 0.1cm precision.
 
 ---
-*I am a Mathematics student at Ankara University. This project is a part of my ongoing journey in the field of Applied Computer Science.*
+*Developed by a Mathematics student at Ankara University with a focus on Embedded Systems and Software Engineering.*
