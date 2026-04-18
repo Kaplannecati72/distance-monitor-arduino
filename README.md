@@ -1,4 +1,4 @@
-# Distance-Time Altitude Monitor (Arduino & C++)
+# Distance-Monitor Altitude Monitor (Arduino & C++)
 
 I developed this project as part of my practical studies in embedded systems and software development. My main goal was to process ultrasonic sensor data to build a real-time altitude measurement and alert system.
 
